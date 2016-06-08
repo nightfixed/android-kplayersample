@@ -6,3 +6,13 @@
 .DS_Store
 /build
 /captures
+.idea
+out
+target
+.metadata
+.classpath
+.project
+local.properties
+build
+bin
+gen
